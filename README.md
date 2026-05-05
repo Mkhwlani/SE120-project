@@ -1,2 +1,9 @@
 # SE120-project
 SE120 project that should contain 3 programs.
+
+## Program 1
+...
+## Program 2
+...
+## Program 3
+...
